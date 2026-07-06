@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="96" fill="#FAF7F2"/>
+  <circle cx="256" cy="256" r="180" stroke="#C4A882" stroke-width="3" fill="none" opacity="0.4"/>
+  <path d="M210 120 L210 340" stroke="#8B7355" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="210" cy="365" r="18" fill="#C4A882"/>
+  <path d="M290 130 Q330 200 320 270 Q310 340 290 370" stroke="#8B7355" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <circle cx="295" cy="160" r="12" fill="#D4A574"/>
+  <circle cx="325" cy="210" r="10" fill="#A8B5A0"/>
+  <circle cx="310" cy="260" r="11" fill="#C9A0A0"/>
+  <circle cx="295" cy="310" r="9" fill="#B8A9C9"/>
+  <text x="256" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#5C4F3D" letter-spacing="4">I LAB ART</text>
+</svg>

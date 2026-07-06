@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#C4A882"/>
+      <stop offset="100%" style="stop-color:#8B7355"/>
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="100" r="95" stroke="url(#grad)" stroke-width="2" fill="none" opacity="0.3"/>
+  <circle cx="100" cy="100" r="70" stroke="url(#grad)" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <!-- I shape as paintbrush -->
+  <path d="M85 45 L85 130" stroke="url(#grad)" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="85" cy="140" r="8" fill="url(#grad)"/>
+  <!-- Lab flask / art palette -->
+  <path d="M115 50 Q130 80 125 110 Q120 140 115 150" stroke="url(#grad)" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <circle cx="118" cy="65" r="5" fill="#D4A574" opacity="0.8"/>
+  <circle cx="128" cy="85" r="4" fill="#A8B5A0" opacity="0.8"/>
+  <circle cx="122" cy="105" r="4.5" fill="#C9A0A0" opacity="0.8"/>
+  <circle cx="115" cy="125" r="3.5" fill="#B8A9C9" opacity="0.8"/>
+</svg>
